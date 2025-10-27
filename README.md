@@ -50,6 +50,7 @@ python3 main.py https://www.example.com/
 # Showcase
 
 ## It's censored because I don't know if I am allowed to scan that site
+Capture.PNG
 
 
 ---
