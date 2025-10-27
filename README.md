@@ -27,7 +27,7 @@ git clone https://github.com/DebugModex/CheckBug
 
 Direct in to the Directory
 ```
-cd Checkbug/
+cd CheckBug/
 ```
 
 Install packages
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 One-Liner
 ```
-git clone https://github.com/DebugModex/CheckBug; cd checkbug/; pip install -r requirements.txt
+git clone https://github.com/DebugModex/CheckBug; cd checkBug/; pip install -r requirements.txt
 ```
 ---
 # Usage
